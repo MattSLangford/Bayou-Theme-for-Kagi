@@ -1,0 +1,17 @@
+.__sri-title-box {
+  font-weight: bold;
+}
+.__sri-title .__sri_title_link, .__srgi-title a, .__sri-title .__sri_title_link:hover, .__srgi-title a:hover {
+  border: none; color: #1E6FBA;
+}
+.__srgi {
+  padding-left: 10px;
+  border-left: 1px solid lightgrey;
+}
+.__sri-desc {
+  line-height: 1.65;
+  font-size: 0.9rem;
+}
+.__sri-url-box {
+  padding-bottom: 2px;
+}
